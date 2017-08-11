@@ -1,0 +1,2 @@
+<div>Error: {{error}}</div>
+<div>Message: {{message}}</div>
